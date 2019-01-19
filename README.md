@@ -4,7 +4,7 @@ An NLP model zoo implemented in PyTorch.
 
 ## Requirements
 
-PyTorch: 0.4.0
+PyTorch: >= 0.4.0
 
 
 ## Models Included
