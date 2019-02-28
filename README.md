@@ -23,6 +23,10 @@ Classic model for semantic matching.
 
 - Dynamic LSTM
 
+LSTM with variable length, which is lacked in PyTorch.
+
+- Transformer
+
 Pure attention-based encoder which is spotlight.
 
 [Vaswani, et al. Attention Is All You Need. 2017.](https://arxiv.org/abs/1706.03762)
