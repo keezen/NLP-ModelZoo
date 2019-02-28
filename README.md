@@ -11,7 +11,9 @@ PyTorch: >= 0.4.0
 
 - TextCNN
 
-Yoon Kim. Convolutional Neural Networks for Sentence Classification. 2014.
+Basic CNN-based network for text classification.
+
+[Yoon Kim. Convolutional Neural Networks for Sentence Classification. 2014.](https://arxiv.org/abs/1408.5882)
 
 - ESIM
 
