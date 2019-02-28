@@ -17,6 +17,12 @@ Basic CNN-based network for text classification.
 
 - ESIM
 
-Chen, et al. Enhanced LSTM for Natural Language Inference. 2017.
+Classic model for semantic matching.
+
+[Chen, et al. Enhanced LSTM for Natural Language Inference. 2017.](https://arxiv.org/abs/1609.06038)
 
 - Dynamic LSTM
+
+Pure attention-based encoder which is spotlight.
+
+[Vaswani, et al. Attention Is All You Need. 2017.](https://arxiv.org/abs/1706.03762)
