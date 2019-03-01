@@ -33,6 +33,6 @@ Pure attention-based encoder which is spotlight.
 
 - Biaffine
 
-Biaffine transformation for attention computation and pair classification, taken from [](https://github.com/zysite/biaffine-parser).
+Biaffine transformation for attention computation and pair classification, taken from <https://github.com/zysite/biaffine-parser>.
 
 [Dozat, et al. Deep Biaffine Attention for Neural Dependency Parsing. 2016.](https://arxiv.org/abs/1611.01734)
