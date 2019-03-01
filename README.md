@@ -30,3 +30,9 @@ LSTM with variable length, which is lacked in PyTorch.
 Pure attention-based encoder which is spotlight.
 
 [Vaswani, et al. Attention Is All You Need. 2017.](https://arxiv.org/abs/1706.03762)
+
+- Biaffine
+
+Biaffine transformation for attention computation and pair classification, taken from [](https://github.com/zysite/biaffine-parser).
+
+[Dozat, et al. Deep Biaffine Attention for Neural Dependency Parsing. 2016.](https://arxiv.org/abs/1611.01734)
