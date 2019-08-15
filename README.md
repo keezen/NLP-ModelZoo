@@ -36,3 +36,9 @@ Pure attention-based encoder which is spotlight.
 Biaffine transformation for attention computation and pair classification, taken from <https://github.com/zysite/biaffine-parser>.
 
 [Dozat, et al. Deep Biaffine Attention for Neural Dependency Parsing. 2016.](https://arxiv.org/abs/1611.01734)
+
+- BERT
+
+BERT model for unsupervised pre-training, implemented by [huggingface](https://github.com/huggingface/pytorch-transformers).
+
+[Devlin, et al. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL. 2018.](https://arxiv.org/abs/1810.04805)
