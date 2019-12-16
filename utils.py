@@ -227,6 +227,16 @@ def flatten_list(nested_list):
         for item in nested_list:
             yield from flatten_list(item)
 
+
+def token_to_index(tokens, map_dict, unk_idx=1):
+    """Convert token to index."""
+
+    if isinstance(tokens, str):
+        return map_dict.get(tokens, unk_idx)
+    
+    if isinstance(tokens, list):
+        return [token_to_index(t, map_dict, unk_idx) for t in tokens]
+
             
 def read_json(json_path):
     """Read json."""
